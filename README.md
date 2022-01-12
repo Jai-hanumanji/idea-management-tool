@@ -1,6 +1,6 @@
 # Idea Management System By jai arora
 Idea Management Tool is used to rite any ideas that strike you in your mind. <br />
-Jai project video demo <a href="https://www.youtube.com/watch?v=-4HX8fylA28"> Here</a>
+Jai project video demo <a href="https://www.youtube.com/watch?v=hQIUnp3nSpE"> Here</a>
 
 <img src="https://raw.githubusercontent.com/Jai-hanumanji/idea-management-tool/main/images/Capture.PNG" />
 <img src="https://raw.githubusercontent.com/Jai-hanumanji/idea-management-tool/main/images/c2.PNG" />
